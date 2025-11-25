@@ -1,0 +1,31 @@
+id,name,description,severity,dueDate,isCompleted
+1,Prepare Budget Report,Compile the financial data for the upcoming quarter.,2,2026-01-24,True
+2,Team Meeting,Discuss project updates and team goals.,3,2026-01-15,False
+3,Client Follow-Up,Reach out to the client for feedback on the latest delivery.,3,2026-01-23,False
+4,Update User Guide,Revise and update the user guide for the new release.,1,2025-11-28,False
+5,Code Review,Review the codebase for quality and consistency.,3,2026-01-05,True
+6,Fix Login Issue,Resolve the login issue reported by multiple users.,5,2025-12-03,True
+7,Test New Feature,Conduct testing for the newly implemented feature.,3,2025-12-01,True
+8,Design Homepage Layout,Draft a new layout for the homepage redesign.,1,2026-01-12,True
+9,Analyze Sales Data,Analyze the latest sales trends and prepare a report.,3,2026-01-21,True
+10,Prepare Presentation,Create a presentation for the stakeholder meeting.,1,2026-01-10,True
+11,Write Blog Post,Write a blog post about the recent product updates.,1,2025-12-07,False
+12,Plan Marketing Campaign,Plan the upcoming marketing campaign strategy.,5,2025-12-24,True
+13,Organize Files,Organize digital and physical files for easy access.,5,2025-12-31,False
+14,Update Software,Ensure all software is up to date and secure.,3,2026-01-11,False
+15,Create Test Cases,Design and document test cases for the QA process.,5,2026-01-21,False
+16,Conduct User Interviews,Interview users to gather feedback on the product.,2,2026-01-02,False
+17,Research Competitor Strategies,Research strategies used by competitors to gain insights.,2,2025-12-12,False
+18,Optimize Database,Optimize the database for faster query performance.,1,2025-12-09,False
+19,Review Contracts,Review and finalize vendor and partner contracts.,2,2025-12-09,False
+20,Plan Product Roadmap,Outline the roadmap for the next product iteration.,2,2025-12-01,False
+21,Develop API,Develop and test the new API endpoints.,5,2026-01-11,True
+22,Debug Payment Gateway,Fix issues in the payment gateway integration.,1,2026-01-07,False
+23,Train New Employees,Train new employees on company tools and processes.,2,2025-12-28,True
+24,Monitor System Logs,Monitor logs to identify potential system issues.,5,2026-01-19,False
+25,Draft Newsletter,Draft and design the monthly newsletter.,1,2025-12-03,True
+26,Prepare Annual Report,Prepare the annual report for the board of directors.,2,2026-01-20,True
+27,Refactor Codebase,Refactor the codebase to improve maintainability.,4,2025-11-30,False
+28,Set Up CI/CD Pipeline,Set up and test the CI/CD pipeline.,5,2025-12-31,False
+29,Conduct Security Audit,Conduct a security audit to identify vulnerabilities.,2,2025-11-28,True
+30,Plan Team Outing,Plan and organize a team outing to boost morale.,1,2026-01-19,True
